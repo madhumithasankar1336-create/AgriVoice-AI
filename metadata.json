@@ -1,0 +1,6 @@
+{
+  "name": "AgriVoice AI – Voice-Based Smart Farming Assistant",
+  "description": "Smart farming assistant for farmers with Tamil & English voice input/output, Gemini AI agricultural advice, plant disease diagnosis, crop guidance, and weather advisory.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
